@@ -1,6 +1,6 @@
 {
   "name": "typogly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript/TypeScript library that scrambles text using the typoglycemia effect — keeping it readable while shuffling middle letters",
   "license": "MIT",
   "author": "Pawel Stalowczyk <pawel.stalowczyk@gmail.com>",
