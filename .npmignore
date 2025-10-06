@@ -1,0 +1,39 @@
+# Source files
+src/
+*.test.ts
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+.eslintrc.json
+.prettierrc.json
+
+# Testing
+coverage/
+.vitest/
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CI/CD
+.github/
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Temporary
+*.tmp
+*.tgz
